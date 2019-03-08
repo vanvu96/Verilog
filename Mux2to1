@@ -1,0 +1,10 @@
+module mux2to1();
+
+input
+output
+
+and
+and
+or
+
+endmodule
